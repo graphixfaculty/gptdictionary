@@ -1,2 +1,2 @@
 discord.py[voice]
-openai==0.28
+openai==1.35.5
